@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hey 👋, I'm NagaSivaji Sirigineedi</h1>
 <h3 align="center">Cloud Stack Developer | Full Stack Java & JavaScript Engineer | Freelance Web Developer</h3>
 
