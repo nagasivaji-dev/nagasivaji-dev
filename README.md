@@ -50,6 +50,11 @@ I'm a developer who loves building reliable systems and elegant UIs. I work acro
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
+### 💡 Knowledge
+<p>
+Cloud stack | Networking | Data Structures | Linux | Microprocessors & Controllers
+</p>
+
 ### 🛠️ Tools & IDEs
 <p>
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
